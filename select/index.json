@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SISTERS",
+  "base_artist": "john",
+  "createdAt": "2026-01-06T07:57:24.250141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm Not Perfect - feat. The Clark Sisters Amended",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/01_I'm_Not_Perfect_-_feat._The_Clark_Sisters_Amended_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Not Perfect (feat. The Clark Sisters)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/02_I'm_Not_Perfect_(feat._The_Clark_Sisters)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sisters of Mercy",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/03_Sisters_of_Mercy_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Your Sisters",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/04_All_Your_Sisters_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Good and the Bad Guy (Siamese Sisters)",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/05_The_Good_and_the_Bad_Guy_(Siamese_Sisters)_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trance Sisters",
+      "artist": "Memory Tapes",
+      "has_synced": true,
+      "path": "select/06_Trance_Sisters_Memory_Tapes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wild Little Sisters (Moby and Oscar the Punk remix)",
+      "artist": "Moby and Oscar the Punk",
+      "has_synced": false,
+      "path": "select/07_Wild_Little_Sisters_(Moby_and_Oscar_the_Punk_remix)_Moby_and_Oscar_the_Punk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wild Little Sisters",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Wild_Little_Sisters_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sisters, O Sisters",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/09_Sisters,_O_Sisters_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brothers and Sisters",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Brothers_and_Sisters_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Two Sisters",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/11_Two_Sisters_Clannad.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Two Sisters",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/12_Two_Sisters_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Two Sisters",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/13_Two_Sisters_Clannad.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Neon Syrup for the Cemetery Sisters",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/14_Neon_Syrup_for_the_Cemetery_Sisters_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sisters and Brothers",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/15_Sisters_and_Brothers_Sandra.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sisters Of The Moon",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/16_Sisters_Of_The_Moon_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SISTERS",
+      "artist": "John",
+      "has_synced": false,
+      "path": "select/pl_01_SISTERS_John.txt"
+    }
+  ]
+}
